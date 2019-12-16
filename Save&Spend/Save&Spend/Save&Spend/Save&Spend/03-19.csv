@@ -1,0 +1,6 @@
+title,amount,isExpense,dateTime
+initial,70.0,,
+Pizza,6.0,True,12/05/2019 10:30 AM
+Salary,1500.0,False,12/10/2019 08:00 AM
+Groceries,25.0,True,12/11/2019 05:30 PM
+Bar,22.0,True,12/13/2019 09:00 PM
